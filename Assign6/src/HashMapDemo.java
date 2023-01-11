@@ -24,6 +24,7 @@ public class HashMapDemo
 
         Scanner console = new Scanner(System.in);
 
+        System.out.print("Hello");
         System.out.print("Enter the input filename: ");
 
         String inputFilename = console.nextLine();
