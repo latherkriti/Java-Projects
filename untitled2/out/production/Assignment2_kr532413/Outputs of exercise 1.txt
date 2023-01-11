@@ -1,0 +1,8 @@
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=63551:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\untitled3\out\production\Assignment2_priyansh CousinCollatz
+Enter a positive integer: 5 100 1000 10000 100000 1000000 10000000 0
+5 3 14 0
+100 70 327 47
+1000 801 1012 78
+10000 9087 1145 283
+100000 98003 1552 561
+1000000 775533 2800 2677

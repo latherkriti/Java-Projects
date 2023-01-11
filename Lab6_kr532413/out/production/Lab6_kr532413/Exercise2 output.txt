@@ -1,0 +1,45 @@
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=52213:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Lab6_kr532413\out\production\Lab6_kr532413 Exercise2
+Enter name or done: John
+Enter name or done: William
+Enter name or done: Ryan
+Enter name or done: Seizel
+Enter name or done: done
+Height of the tree is: 2
+Number of nodes in the tree is: 4
+
+Inorder:		Seizel	William	John	Ryan	
+Preorder:		John	William	Seizel	Ryan	
+Postorder:	Seizel	William	Ryan	John	
+Level order:	John	William	Ryan	Seizel	
+
+Height of the tree is: 2
+And is it height balanced... Yes!
+
+
+Process finished with exit code 0
+
+
+
+
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=52227:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Lab6_kr532413\out\production\Lab6_kr532413 Exercise2
+Enter name or done:emboar
+Enter name or done:unfezant
+Enter name or done:palkia
+Enter name or done:serperior
+Enter name or done:samurott
+Enter name or done:done
+Height of the tree is: 2
+Number of nodes in the tree is: 5
+
+Inorder:		serperior	unfezant	samurott	emboar	palkia	
+Preorder:		emboar	unfezant	serperior	samurott	palkia	
+Postorder:	serperior	samurott	unfezant	palkia	emboar	
+Level order:	emboar	unfezant	palkia	serperior	samurott	
+
+Height of the tree is: 2
+And is it height balanced... Yes!
+
+
+Process finished with exit code 0
+
+

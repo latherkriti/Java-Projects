@@ -1,0 +1,46 @@
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=50775:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Assignment6_2110\out\production\Assignment6_2110 SimpleHashMap
+Enter the input filename: userinfo.txt
+Login: rpokemon
+Password: drow456
+Login successful
+Welcome Rayquazza Pokemon 
+
+Process finished with exit code 0
+
+
+
+
+
+
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=50785:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Assignment6_2110\out\production\Assignment6_2110 SimpleHashMap
+Enter the input filename: userinfo.txt
+Login: cdude
+Password: trythis
+Either username or password is incorrect. You have 2 more attempts
+
+Login: cdude
+Password: trythat
+Either username or password is incorrect. You have 1 more attempts
+
+Login: cdude
+Password: kriti
+Sorry. Incorrect login. Please contact the system administrator.
+
+Process finished with exit code 0
+
+
+
+
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=50796:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Assignment6_2110\out\production\Assignment6_2110 SimpleHashMap
+Enter the input filename: userinfo.txt
+Login: kriti
+Password: virender
+Either username or password is incorrect. You have 2 more attempts
+
+Login: bbones
+Password: pass456!
+Login successful
+Welcome Brom Bones 
+
+Process finished with exit code 0
+

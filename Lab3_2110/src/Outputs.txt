@@ -1,0 +1,43 @@
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=58600:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Lab3_2110\out\production\Lab3_2110 Prime
+11
+11 31 0
+101
+11 31 0
+101 547 0
+1001
+11 31 0
+101 547 0
+1001 7927 32
+10001
+11 31 0
+101 547 0
+1001 7927 2
+10001 104743 18
+100001
+11 31 0
+101 547 0
+1001 7927 2
+10001 104743 18
+100001 1299721 235
+1000001
+11 31 0
+101 547 0
+1001 7927 2
+10001 104743 18
+100001 1299721 235
+1000001 15485867 5761
+
+
+
+
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=58618:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Lab3_2110\out\production\Lab3_2110 MatrixMult
+200 3
+Size:200 Time:14 ms
+
+
+
+
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=58627:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Lab3_2110\out\production\Lab3_2110 Binary
+Enter a positive integer: 5
+The execution time to generate binary numbers from 0 to 31is: 0.0ms
+

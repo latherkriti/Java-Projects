@@ -1,0 +1,14 @@
+11 31 0
+101 547 0
+1001 7927 2
+10001 104743 18
+
+
+800 3
+Size:800 Time:1798 ms
+
+
+Enter a positive integer: 10
+The execution time to generate binary numbers from 0 to 1023 is 2 ms
+
+

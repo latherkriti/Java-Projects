@@ -1,0 +1,21 @@
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=60650:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Assignment5\out\production\Assignment5 Huffman
+Enter a line of text (uppercase letters only):LETTERS PROBABILITY.TXT
+Please enter a string to encode
+THIS IS KRITI
+Here’s the encoded line:101111100110011100 110011100 11111111111011110111001011100
+The decoded line is: THIS IS KRITI
+
+Process finished with exit code 0
+
+
+
+
+
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=60692:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Assignment5\out\production\Assignment5 Huffman
+Enter a line of text (uppercase letters only):LETTERS PROBABILITY.TXT
+Please enter a string to encode
+I LOVE COMPUTER SCIENCE
+Here’s the encoded line:1100 111110011011111111111000 11111100110111111110111111111100111111011010111101 11100111111001100011101111111000
+The decoded line is: I LOVE COMPUTER SCIENCE
+
+Process finished with exit code 0

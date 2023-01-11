@@ -1,0 +1,38 @@
+inputs:
+Pikachu
+Charizard
+Mewtwo
+Emboar
+Bulbasaur
+Eevee
+Gengar
+Ditto
+Charmander
+quit
+
+
+ouput:
+
+
+Enter Pokemon names, one on each line
+Enter quit to end
+Pikachu
+Charizard
+Mewtwo
+Emboar
+Bulbasaur
+Eevee
+Gengar
+Ditto
+Charmander
+quit
+Here is the linked list:
+Charmander--> Ditto--> Gengar--> Eevee--> Bulbasaur--> Emboar--> Mewtwo--> Charizard--> Pikachu-->
+Here is the linked list with even-numbered nodes:
+Charmander   Gengar   Bulbasaur   Mewtwo   Pikachu
+Here is the linked list with odd-numbered nodes:
+Ditto   Eevee   Emboar   Charizard
+Here is the reversed linked list:
+Pikachu--> Charizard--> Mewtwo--> Emboar--> Bulbasaur--> Eevee--> Gengar--> Ditto--> Charmander-->
+Charmander--> Ditto--> Gengar--> Eevee--> Emboar--> Mewtwo--> Charizard--> Pikachu-->
+Process finished with exit code 0

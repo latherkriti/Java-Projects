@@ -1,0 +1,18 @@
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=50942:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Assignment6_2110\out\production\Assignment6_2110 TopologicalSort
+Enter the number of vertices in graph
+5
+Enter the number of edges in graph
+5
+Enter Edge data 5lines, in format From Node -->  To Node
+A B C D E
+A 0 1 0 1 0
+B 0 0 0 1 0
+C 0 0 0 0 0
+D 0 0 1 0 0
+E 1 1 0 0 0
+
+1 2 3 4 5
+E A B D C
+
+
+Process finished with exit code 1

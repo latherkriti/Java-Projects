@@ -1,0 +1,14 @@
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=52197:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Lab6_kr532413\out\production\Lab6_kr532413 BinaryTreeDemo
+Height of the tree is: 3
+Number of nodes in the tree is: 6
+
+Inorder:		F	D	B	E	A	C	
+Preorder:		A	B	D	F	E	C	
+Postorder:	F	D	E	B	C	A	
+Level order:	A	B	C	D	E	F	
+
+Height of the tree is: 3
+And is it height balanced... No.
+
+
+Process finished with exit code 0

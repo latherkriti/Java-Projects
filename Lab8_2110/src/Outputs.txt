@@ -1,0 +1,72 @@
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=51932:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Lab8_2110\out\production\Lab8_2110 HashTableExperiment
+Enter the hash table size: 10
+Enter number of keys: 
+5
+
+Hashtable Created:
+0: 
+1: 
+2: 6592-->
+3: 3143-->
+4: 
+5: 1105-->2785-->
+6: 5946-->
+7: 
+8: 
+9: 
+
+
+Statistics:
+Table size: 10
+Number of keys: 5
+Load factor: 2.0
+Number of collisions: 1
+Longest List: 2
+
+Process finished with exit code 0
+
+
+
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=52003:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Lab8_2110\out\production\Lab8_2110 HashTableExperiment
+Enter the hash table size: 7
+Enter number of keys: 
+2
+
+Hashtable Created:
+0: 
+1: 
+2: 4447-->
+3: 857-->
+4: 
+5: 
+6: 
+
+
+Statistics:
+Table size: 7
+Number of keys: 2
+Load factor: 3.5
+Number of collisions: 0
+Longest List: 1
+
+Process finished with exit code 0
+
+
+
+
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=51963:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\wit\IdeaProjects\Lab8_2110\out\production\Lab8_2110 HashTableExperiment
+Enter the hash table size: 1235
+Enter number of keys: 
+41
+
+Statistics:
+Table size: 1235
+Number of keys: 41
+Load factor: 30.121951219512194
+Number of collisions: 0
+Longest List: 1
+
+Process finished with exit code 0
+
+
+

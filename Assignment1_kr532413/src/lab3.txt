@@ -1,0 +1,95 @@
+ques 1:
+public class PrimeFind {
+public static long findNextPrime(long p) {
+long i = 0, count = 0;
+//Start from 2 and find the next prime number up to count of "p"
+for(i = 2; count < p; i++) {
+if( isPrime(i)) {
+count++;
+}
+}
+return i - 1;
+}
+public static boolean isPrime(long num) {
+//Find if any number between 2 and num is a factor of num
+//If so, it is NOT a prime
+//If there are NO factors, then it is a prime number
+for(long i = 2; i < num; i++) {
+if( num % i == 0) {
+return false;
+}
+}
+return true;
+}
+public static void main(String[] args) {
+//Array of Nth Prime numbers
+long nthPrimeNumbers[] = {11, 101, 1001, 10001, 100001, 1000001, 10000001};
+//Iterate thru the array and find the Nth Prime number
+for(long n : nthPrimeNumbers) {
+
+//Print the results
+System.out.println(n + "th Prime number is " + num + );
+}
+}
+}
+
+
+
+
+
+
+another way
+
+
+import java.util.*;
+
+public class Main
+{
+  public static long nthPrime (long n)  /* function calculates and return nth prime*/
+  {
+    long num, count, i;
+    num = 1;
+    count = 0;
+
+    while (count < n)    /* run loop till we reaches nth prime*/
+    {
+	   num = num + 1;
+	   for (i = 2; i <= num; i++)  /*theorem used to check prime is divide number from 2 to the number and if number is divisible by any of the number then number is not prime */    
+	   {			
+	      if (num % i == 0)
+	      {
+		    break;
+	      }
+	   }
+	   if (i == num)
+	   {			//if number is prime increment count
+	     count = count + 1;
+	   }
+     }
+    return num;
+  }
+
+  public static void main (String[]args)
+  {
+    Scanner scanner = new Scanner (System.in);
+    int array[] = new int[10];
+    int count = 0;
+    while (true)
+    {
+	   int i = scanner.nextInt ();    /* read input from console and store it in array*/
+	   if (i == 0 || count > 9)
+	      break;
+	   array[count] = i;
+	   count++;
+    }
+    for (int i = 0; i < count; i++)
+    {
+	   long timebefore = System.currentTimeMillis ();  /*time before calling function */
+	   long prime = nthPrime (array[i]);   /* call function to calculate nth Prime*/
+	   long timeafter = System.currentTimeMillis ();  /*time after calculation nth Prime */
+	   System.out.println (array[i] + " " + prime + " " +
+			    (timeafter - timebefore));
+    }
+
+  }
+}
